@@ -16,4 +16,4 @@ Used technologies:
 <li>Rapid API</li>
 </ul>
 
-
+Inspired by (JavaScript Mastery)
