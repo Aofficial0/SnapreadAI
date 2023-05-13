@@ -5,7 +5,7 @@ With features like:
 Save history using the local storage 
 Copy to clipboard 
 
-TRY IT OUT : https://unique-marzipan-2c83ee.netlify.app/ 
+TRY IT OUT : https://snapread.netlify.app/
 
 Used technologies: 
 <ul>
